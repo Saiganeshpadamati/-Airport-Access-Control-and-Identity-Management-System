@@ -1,0 +1,5 @@
+{
+  "name": "Airport Access Control and Identity Management System",
+  "description": "A high-security airport access control simulation featuring robust RBAC, identity verification, and security audit logging for mission-critical infrastructure.",
+  "requestFramePermissions": []
+}
