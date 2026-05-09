@@ -1,20 +1,60 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Airport Access Control & Identity Management System
 
-# Run and deploy your AI Studio app
+## Overview
 
-This contains everything you need to run your app locally.
+The Airport Access Control & Identity Management System is a cybersecurity-focused project designed to simulate secure identity verification and restricted-area access management in airport environments.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1PdM3lH5BUwYRRdM6BEqnc_kzxZyTHOXL
+This project demonstrates how airport staff and visitor access can be securely managed using authentication, authorization, and role-based access control mechanisms.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## Features
 
+* Secure Staff & Visitor Identity Verification
+* Role-Based Access Control (RBAC)
+* Restricted Zone Access Simulation
+* Identity Data Protection using Encryption
+* Access Logging & Monitoring
+* Airport Security Workflow Simulation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## Technologies Used
+
+* Python
+* HTML/CSS
+* JavaScript
+* SQL
+* Linux Environment
+
+---
+
+## Cybersecurity Concepts Implemented
+
+* Authentication & Authorization
+* Role-Based Access Control (RBAC)
+* Data Encryption
+* Secure Identity Handling
+* Access Management
+
+---
+
+## Project Objective
+
+The main objective of this project is to demonstrate how cybersecurity principles can be applied to protect sensitive airport zones and identity systems from unauthorized access.
+
+---
+
+## Future Improvements
+
+* Biometric Authentication Integration
+* DigiYatra-Based Verification Simulation
+* Real-Time Access Monitoring Dashboard
+* AI-Based Threat Detection
+
+---
+
+## Author
+
+Saiganesh Padamati
+
